@@ -1,6 +1,14 @@
 # Bad Companies
 
 This is a list I've started where I can document various bad companies with links to articles.
+This is not an exhaustive list, and will only be updated by me.
+I'll add companies as they affect my life in some way.
+
+A list of the companies:
+
+* [Aviagens](#aviagens)
+* [Nortura](#nortura)
+
 
 # Aviagens
 
