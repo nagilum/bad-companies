@@ -8,6 +8,7 @@ A list of the companies:
 
 * [Aviagens](#aviagens)
 * [Nortura](#nortura)
+* [Prior](#prior-owned-by-nortura)
 
 
 # Aviagens
